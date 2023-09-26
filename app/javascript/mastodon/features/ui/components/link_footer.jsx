@@ -101,7 +101,7 @@ class LinkFooter extends PureComponent {
           <a href={source_url} rel='noopener noreferrer' target='_blank'><FormattedMessage id='footer.source_code' defaultMessage='View source code' /></a>
           {DividingCircle}
           v{version} -  
-          <a href='https://github.com/MikeHuntington/mastodon' target='_blank'>NeoVibe Edition</a>
+          <a href='https://github.com/MikeHuntington/mastodon' target='_blank'> NeoVibe Edition</a>
         </p>
       </div>
     );
